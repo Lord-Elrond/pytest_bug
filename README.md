@@ -1,4 +1,6 @@
 run `pip3 install -r requirements.txt`
-then `pytest myapp` to see the bug
 
-you will need to have a postgres database running
+and make sure the settings point to a running postgres database,
+
+then `pytest myapp` to see the bug.
+
